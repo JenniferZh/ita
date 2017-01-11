@@ -5,6 +5,7 @@
 
 >For example, given the array [-2,1,-3,4,-1,2,1,-5,4],
 >the contiguous subarray [4,-1,2,1] has the largest sum = 6.
+
 ##思路
 >**动态规划**
 >状态转移函数：$s_i$表示以第$i$个数字结尾的subarray的最大sum。
